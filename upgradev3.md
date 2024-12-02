@@ -31,4 +31,4 @@ https://testnet.nodes.glacier.io/status
 
 That's all !
 
-*[Twitter](https://twitter.com/cryptokhenzar)
+* [Twitter](https://twitter.com/cryptokhenzar)
